@@ -8,5 +8,5 @@ Tools used - In this exploratory data analysis project pandas, matplotlib, seabo
 
 
 
-Outcome – the outcome of this exploratory data analysis project cleaned the data by classifying numerical and categorical data and numerical data is filled with mean and categorical data is filled with mode. And visualize the data by matplotlib, seaborn, plotly. The rating is fall above 90 of some movies of Netflix by customers its good. the Netflix maintaining good rating score but Step Up, Dope, Haters Back Off, Californication some movies rating score fall between 60 to 70. so, Netflix should take feedback from low rated customers improve the movie based on customer preferences.
+Outcome – the outcome of this exploratory data analysis project is identified the trends, patterns of Netflix dataset to make more profit on movies. cleaned the data by classifying numerical and categorical data and numerical data is filled with mean and categorical data is filled with mode. And visualize the data by matplotlib, seaborn, plotly. The rating is fall above 90 of some movies of Netflix by customers its good. the Netflix maintaining good rating score but Step Up, Dope, Haters Back Off, Californication some movies rating score fall between 60 to 70. so, Netflix should take feedback from low rated customers improve the movie based on customer preferences to increase profit.
 
